@@ -4,7 +4,7 @@ This project focuses on analyzing student performance data using Python, explori
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Objective] (#objective)
+- [Objective](#objective)
 - [Dataset](#dataset)
 - [Analysis Overview](#analysis-overview)
 - [Key Findings](#key-findings)
@@ -26,6 +26,7 @@ Are there interacting features which affect test scores?
 ## Dataset
 
 Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/desalegngeb/students-exam-scores)
+
 This datasets are fictional and should be used for educational purposes only.
 The original dataset generator creator is Mr. Royce Kimmons.
 Data Dictionary (column description)
@@ -88,3 +89,8 @@ WritingScore: writing test score(0-100)
 ## Contributing
 
 Contributions to improve the analysis scripts, add new features, or fix issues are welcome. Please fork the repository, make your changes, and submit a pull request.
+
+## Contact 
+- **LinkedIN:** [Binoy Patra](https://www.linkedin.com/in/binoy-patra-b9277b1b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **GitHub:** [Binoy Patra](https://github.com/binoy-patra)
+- **Gmail:** [Mail](binoypatra20@gmail.com)
